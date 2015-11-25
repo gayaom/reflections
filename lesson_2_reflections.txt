@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository a hidden file/repository is created in the directory. We need a repository inorder to save the entire history.

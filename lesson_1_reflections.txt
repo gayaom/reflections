@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+As the two sets of codes were side to side, it was easy to trace the differences.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It helps find where I have made changes. and also it would be easy to go to old version if new version doesnt work out. An changes made in the code can be reverted easily.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros: Everytime you feel like its logical change and decide to commit, then only you can commit. Commits are in your hand. You can limit them to meaningful ones.
+cons:Everytime you need to remember to commit as not done automatically.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Saving multiple files in one commit helps keep related files save at a time. Especially helpful for web development as we use different files like .html, .css, .js etc which are saved together in a commit.
+
+How can you use the commands git log and git diff to view the history of files?
+git log : when you enter git log in the Git Bash, you see all the commits which show the changes done to files during commiting.
+git diff : with git diff you can compare two commitids through which you can find the changes made in the versions.
+
+How might using version control make you more confident to make changes that could break something?
+It helps go back to the previous versions and find out the problem if I run into problem in present version. So even I make changes that could break something, still I can go back to unchanged version in no matter. We can be risk takers now. We can explore with different code without breaking the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to try to save my versions using commits and explore different options without any breakdown in the project. So that I can go back to any version using commits if necessary.
+
