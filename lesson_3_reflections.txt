@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
  Branches: Branches happen on a single repository. We use branches when we want to try out a new experimental feature that you are still not sure will work but still want to have a working demo to show what you are working on.
 Clones: Clones work on any two repositories. Cloning involves taking an existing repository and making one just like it. The original repository could be either remote or local.
 Forks: Forking is only used within the context of GitHub, taking an existing GitHub repository and making a copy of it.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It enables us to keep the state of remote in your hand while working  in your local machine especially when offline. Getting everything up-to-date can be done first by merging your local copy with local remote and then second is push the changes to github.
